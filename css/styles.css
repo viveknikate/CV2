@@ -3,7 +3,7 @@ body{
     text-align: center;
     font-family: 'Merriweather', serif;
     color: #40514E;
-} 
+}
 
 p{
     line-height: 2;
@@ -150,7 +150,6 @@ hr{
 }
 
 /* Button Styling */
-
 .btn {
     background-color: #30e3cb; /* Green */
     border-radius: 8px;
